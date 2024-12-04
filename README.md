@@ -6,6 +6,20 @@
 
 This project is a collection of [ComfyUI](https://www.comfy.org/) workflows created during experimental sessions with this tool. Feel free to use and learn from these experiments or even contribute your own findings!
 
+## Contents
+
+### Characters
+
+* [Ahri: The Huntress](./workflows/ahri-the-huntress/README.md)
+* [Neon Punk Girl in an Alleyway](./workflows/neon-punk-girl-alleyway/README.md)
+* [The Shadow Weaver Sorceress](./workflows/shadow-weaver-sorceress/README.md)
+
+### Utilities
+
+* [Outpainting](./utilities/outpainting/README.md)
+
+---
+
 ## Requirements
 
 To get started, you need to have a working installation of ComfyUI on your machine. Please refer to the official documentation for instructions on [how to install and set up ComfyUI](https://docs.comfy.org/get_started/pre_package). Once installed, feel free to explore this repository and start experimenting with the provided workflows.
